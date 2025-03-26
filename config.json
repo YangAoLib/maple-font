@@ -34,7 +34,7 @@
     "enable": true,
     "version": "3.3.0",
     "mono": true,
-    "use_font_patcher": true,
+    "use_font_patcher": false,
     "glyphs": [
       "--complete"
     ],
